@@ -128,6 +128,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/rakgyunshin"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://youtube.com/@wigglelab2023"      
 
 # Site Footer
 footer:
@@ -291,5 +294,10 @@ defaults:
       share: true
       related: true
       show_date: true
+      toc: true
+      toc_sticky: true
+      toc_label: Contents
+      toc_icon: "fas fa-scroll"
 
+    
 date_format: "%d-%m-%Y"
