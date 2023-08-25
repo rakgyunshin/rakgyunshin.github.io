@@ -108,14 +108,14 @@ author:
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Somehow researcher of language, sociophonetician."
   location         : "London, UK"
-  email            :
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
+      url: "ragkyun.shin.21@ucl.uk"
+    - label: "Learn Korean"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://rg-korean.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
