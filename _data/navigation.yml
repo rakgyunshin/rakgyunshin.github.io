@@ -5,9 +5,11 @@ main:
   - title: "About"
     url: /about/
   - title: "Research"
-    url: https://rakgyunshin.github.io/
+    url: /research
   - title: "NKEC"
-    url: https://rakgyunshin.github.io/
+    url: https://nkec.oopy.io/
+  # - title: "Blog"
+  #   url: /blog
   # - title: "Category"
   #   url: /categories/
   # - title: "Tags"
